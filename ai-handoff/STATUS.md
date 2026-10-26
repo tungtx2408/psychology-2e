@@ -36,11 +36,15 @@ Tạo bộ prompt cho mô hình AI khác và xây dựng luôn bản sách web c
 - Không có console error/warn trong lượt kiểm tra cuối.
 - Ảnh kiểm chứng ở `web/test-results/home-desktop.png` và `home-mobile.png`.
 
-## Chưa xuất bản
+## GitHub và xuất bản website
 
 Đã khởi tạo kho Git cục bộ trên nhánh `main` theo yêu cầu chuyển dự án lên GitHub. Đã thêm README gốc, quy tắc loại cache/build/dependency và `.gitattributes` để bảo toàn byte của nguồn sách khi clone trên Windows. Đã chuẩn bị 763 tệp khoảng 67 MB; kiểm tra dữ liệu Git xác nhận cả 725 tệp nguồn khớp SHA-256 và không có build/cache hay mẫu token/private key trong phần chuẩn bị tải lên.
 
-GitHub đã kết nối và xác nhận tài khoản `tungtx2408`. Đã chuẩn bị bản commit đầu tiên; chưa có remote hoặc URL kho GitHub vì còn chờ người dùng chọn kho đích và Private/Public nếu tạo mới. Kiểm tra trạng thái Git thực tế trước khi tiếp tục, không khởi tạo lại hoặc ghi đè kho đã có. Chưa deploy Cloudflare Pages, chưa gắn tên miền và chưa kiểm tra trên thiết bị điện thoại thật. Chưa có backend, tài khoản, đồng bộ đa thiết bị, PWA hoặc đối chiếu hai cột.
+Đã đưa dự án lên [tungtx2408/psychology-2e](https://github.com/tungtx2408/psychology-2e) ngày 26/10/2026, giữ chế độ **Private** của kho người dùng chỉ định. Remote `origin`: `https://github.com/tungtx2408/psychology-2e.git`; nhánh `main` theo dõi `origin/main`. Commit khởi tạo: `ebcea4a5c2bc66a2b78c7d8b81e24b3ee9faf49b`; đã đối chiếu SHA của commit trên máy và GitHub. Có 763 tệp được quản lý trong Git, không gồm dependency, cache hoặc bản build.
+
+Kiểm tra trạng thái Git thực tế trước khi tiếp tục, không khởi tạo lại hoặc ghi đè kho đã có. Chưa deploy Cloudflare Pages, chưa gắn tên miền và chưa kiểm tra trên thiết bị điện thoại thật. Chưa có backend, tài khoản, đồng bộ đa thiết bị, PWA hoặc đối chiếu hai cột. Đưa mã lên GitHub chưa tự xuất bản website.
+
+Trong phiên này có khác biệt tài khoản Windows sở hữu `.git`; lệnh chạy bằng tài khoản khác dùng `git -c safe.directory="E:/Vibe Code/Codex/psychology-2e" ...` cho riêng thư mục dự án. Không cấu hình tin cậy mọi thư mục. Tên tác giả Git lấy từ tài khoản GitHub đã xác nhận, email dùng dạng noreply.
 
 ## Tiếp tục
 
