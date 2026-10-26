@@ -1,0 +1,85 @@
+# 12.7 Prosocial Behavior
+
+> [!info]
+>
+> ### Learning Objectives
+>
+> By the end of this section, you will be able to:
+>
+> - Describe altruism
+> - Describe conditions that influence the formation of relationships
+> - Identify what attracts people to each other
+> - Describe the triangular theory of love
+> - Explain social exchange theory in relationships
+
+You’ve learned about many of the negative behaviors of social psychology, but the field also studies many positive social interactions and behaviors. What makes people like each other? With whom are we friends? Whom do we date? Researchers have documented several features of the situation that influence whether we form relationships with others. There are also universal traits that humans find attractive in others. In this section we discuss conditions that make forming relationships more likely, what we look for in friendships and romantic relationships, the different types of love, and a theory explaining how our relationships are formed, maintained, and terminated.
+
+## Prosocial Behavior and Altruism
+
+Do you voluntarily help others? Voluntary behavior with the intent to help other people is called <a id="term-00001"></a>**prosocial behavior**. Why do people help other people? Is personal benefit such as feeling good about oneself the only reason people help one another? Research suggests there are many other reasons. <a id="term-00002"></a>**Altruism** is people’s desire to help others even if the costs outweigh the benefits of helping. In fact, people acting in altruistic ways may disregard the personal costs associated with helping ([Figure 12.26](#CNX_Psych_12_06_altruism)). For example, news accounts of the 9/11 terrorist attacks on the World Trade Center in New York reported an employee in the first tower helped his co-workers make it to the exit stairwell. After helping a co-worker to safety he went back in the burning building to help additional co-workers. In this case the costs of helping were great, and the hero lost his life in the destruction (Stewart, 2002).
+
+<a id="CNX_Psych_12_06_altruism"></a>
+
+![A photograph shows two people covered in dust; one appears to be helping the other.](../../images/img_8e47c8009661.jpg)
+
+**Figure 12.26** The events of 9/11 unleashed an enormous show of altruism and heroism on the parts of first responders and many ordinary people. (credit: Don Halasy)
+
+Some researchers suggest that altruism operates on empathy. <a id="term-00003"></a>**Empathy** is the capacity to understand another person’s perspective, to feel what they feel. An empathetic person makes an emotional connection with others and feels compelled to help (Batson, 1991). Other researchers argue that altruism is a form of selfless helping that is not motivated by benefits or feeling good about oneself. Certainly, after helping, people feel good about themselves, but some researchers argue that this is a consequence of altruism, not a cause. Other researchers argue that helping is always self-serving because our egos are involved, and we receive benefits from helping (Cialdini, Brown, Lewis, Luce, & Neuberg 1997). It is challenging to determine experimentally the true motivation for helping, whether it is largely self-serving (egoism) or selfless (altruism). Thus, a debate on whether pure altruism exists continues.
+
+> [!tip]
+>
+> ### Link to Learning
+>
+> See this excerpt from the popular TV series [*Friends* in which egoism versus altruism is debated](https://openstax.org/l/friendsclip) to learn more.
+
+## Forming Relationships
+
+What do you think is the single most influential factor in determining with whom you become friends and with whom you form romantic relationships? You might be surprised to learn that the answer is simple: the people with whom you have the most contact. This most important factor is proximity. You are more likely to be friends with people you have regular contact with. For example, there are decades of research that shows that you are more likely to become friends with people who live in your dorm, your apartment building, or your immediate neighborhood than with people who live farther away (Festinger, Schachler, & Back, 1950). It is simply easier to form relationships with people you see often because you have the opportunity to get to know them.
+
+Similarity is another factor that influences who we form relationships with. We are more likely to become friends or lovers with someone who is similar to us in background, attitudes, and lifestyle. In fact, there is no evidence that opposites attract. Rather, we are attracted to people who are most like us ([Figure 12.27](#CNX_Psych_12_07_wedding)) (McPherson, Smith-Lovin, & Cook, 2001). Why do you think we are attracted to people who are similar to us? Sharing things in common will certainly make it easy to get along with others and form connections. When you and another person share similar music taste, hobbies, food preferences, and so on, deciding what to do with your time together might be easy. <a id="term-00004"></a>**Homophily** is the tendency for people to form social networks, including friendships, marriage, business relationships, and many other types of relationships, with others who are similar (McPherson et al., 2001).
+
+<a id="CNX_Psych_12_07_wedding"></a>
+
+![A photograph shows a bride and groom in a wedding ceremony.](../../images/img_804a9de49fef.jpg)
+
+**Figure 12.27** People tend to be attracted to similar people. Many couples share a cultural background. This can be quite obvious in a ceremony such as a wedding, and more subtle (but no less significant) in the day-to-day workings of a relationship. (credit: modification of work by Shiraz Chanawala)
+
+But, homophily limits our exposure to diversity (McPherson et al., 2001). By forming relationships only with people who are similar to us, we will have homogenous groups and will not be exposed to different points of view. In other words, because we are likely to spend time with those who are most like ourselves, we will have limited exposure to those who are different than ourselves, including people of different races, ethnicities, social-economic status, and life situations.
+
+Once we form relationships with people, we desire reciprocity. <a id="term-00005"></a>**Reciprocity** is the give and take in relationships. We contribute to relationships, but we expect to receive benefits as well. That is, we want our relationships to be a two way street. We are more likely to like and engage with people who like us back. Self-disclosure is part of the two way street. <a id="term-00006"></a>**Self-disclosure** is the sharing of personal information (Laurenceau, Barrett, & Pietromonaco, 1998). We form more intimate connections with people with whom we disclose important information about ourselves. Indeed, self-disclosure is a characteristic of healthy intimate relationships, as long as the information disclosed is consistent with our own views (Cozby, 1973).
+
+## Attraction
+
+We have discussed how proximity and similarity lead to the formation of relationships, and that reciprocity and self-disclosure are important for relationship maintenance. But, what features of a person do we find attractive? We don’t form relationships with everyone that lives or works near us, so how is it that we decide which specific individuals we will select as friends and lovers?
+
+Researchers have documented several characteristics that humans find attractive. First we look for friends and lovers who are physically attractive. People differ in what they consider attractive, and attractiveness is culturally influenced. Research, however, suggests that some universally attractive features in women include large eyes, high cheekbones, a narrow jaw line, a slender build (Buss, 1989), and a lower waist-to-hip ratio (Singh, 1993). For men, attractive traits include being tall, having broad shoulders, and a narrow waist (Buss, 1989). Both men and women with high levels of facial and body symmetry are generally considered more attractive than asymmetric individuals (Fink, Neave, Manning, & Grammer, 2006; Penton-Voak et al., 2001; Rikowski & Grammer, 1999). Social traits that people find attractive in potential female mates include warmth, affection, and social skills; in males, the attractive traits include achievement, leadership qualities, and job skills (Regan & Berscheid, 1997). Although humans want mates who are physically attractive, this does not mean that we look for the most attractive person possible. In fact, this observation has led some to propose what is known as the matching hypothesis which asserts that people tend to pick someone they view as their equal in physical attractiveness and social desirability (Taylor, Fiore, Mendelsohn, & Cheshire, 2011). For example, you and most people you know likely would say that a very attractive movie star is out of your league. So, even if you had proximity to that person, you likely would not ask them out on a date because you believe you likely would be rejected. People weigh a potential partner’s attractiveness against the likelihood of success with that person. If you think you are particularly unattractive (even if you are not), you likely will seek partners that are fairly unattractive (that is, unattractive in physical appearance or in behavior).
+
+## Sternberg’s Triangular Theory of Love
+
+We typically love the people with whom we form relationships, but the type of love we have for our family, friends, and lovers differs. Robert Sternberg (1986) proposed that there are three components of love: intimacy, passion, and commitment. These three components form a triangle that defines multiple types of love: this is known as Sternberg’s <a id="term-00007"></a>**triangular theory of love** ([Figure 12.28](#CNX_Psych_12_07_love)). Intimacy is the sharing of details and intimate thoughts and emotions. Passion is the physical attraction—the flame in the fire. Commitment is standing by the person—the “in sickness and health” part of the relationship.
+
+<a id="CNX_Psych_12_07_love"></a>
+
+![Diagram shows a triangle. The interior of the triangle is labeled, “Consummate love; intimacy + passion + commitment.” The peak of the triangle is labeled, “Liking; intimacy.” The left side of the triangle is labeled, “Romantic love; passion + intimacy.” The right side of the triangle is labeled, “Companionate love; intimacy + commitment.” The bottom left corner of the triangle is labeled, “Infatuation; passion.” The bottom side of the triangle is labeled, “Fatuous love; passion + commitment.” The bottom right corner of the triangle is labeled, “Empty love; commitment.”](../../images/img_61bc74a174fe.jpg)
+
+**Figure 12.28** According to Sternberg’s triangular theory of love, seven types of love can be described from combinations of three components: intimacy, passion, and commitment. (credit: modification of work by “Lnesa”/Wikimedia Commons)
+
+Sternberg (1986) states that a healthy relationship will have all three components of love—intimacy, passion, and commitment—which is described as <a id="term-00008"></a>**consummate love** ([Figure 12.29](#CNX_Psych_12_07_couple)). However, different aspects of love might be more prevalent at different life stages. Other forms of love include liking, which is defined as having intimacy but no passion or commitment. Infatuation is the presence of passion without intimacy or commitment. Empty love is having commitment without intimacy or passion. <a id="term-00009"></a>**Companionate love**, which is characteristic of close friendships and family relationships, consists of intimacy and commitment but no passion. <a id="term-00010"></a>**Romantic love** is defined by having passion and intimacy, but no commitment. Finally, fatuous love is defined by having passion and commitment, but no intimacy, such as a long term sexual love affair. Can you describe other examples of relationships that fit these different types of love?
+
+<a id="CNX_Psych_12_07_couple"></a>
+
+![Two boys touch foreheads and noses.](../../images/img_3456268f8ecd.jpg)
+
+**Figure 12.29** According to Sternberg, consummate love describes a healthy relationship containing intimacy, passion, and commitment. (credit: Carloxito/Wikimedia)
+
+## Social Exchange Theory
+
+We have discussed why we form relationships, what attracts us to others, and different types of love. But what determines whether we are satisfied with and stay in a relationship? One theory that provides an explanation is social exchange theory. According to <a id="term-00011"></a>**social exchange theory**, we act as naïve economists in keeping a tally of the ratio of costs and benefits of forming and maintaining a relationship with others ([Figure 12.30](#CNX_Psych_12_07_exchange)) (Rusbult & Van Lange, 2003).
+
+<a id="CNX_Psych_12_07_exchange"></a>
+
+![An illustration shows a balance scale, with one side labeled “positives or benefits” appearing heavier than the other side, which is labeled “negatives or costs.”](../../images/img_a0b1901d7c23.jpg)
+
+**Figure 12.30** Acting like naïve economists, people may keep track of the costs and benefits of maintaining a relationship. Typically, only those relationships in which the benefits outweigh the costs will be maintained.
+
+People are motivated to maximize the benefits of social exchanges, or relationships, and minimize the costs. People prefer to have more benefits than costs, or to have nearly equal costs and benefits, but most people are dissatisfied if their social exchanges create more costs than benefits. Let’s discuss an example. If you have ever decided to commit to a romantic relationship, you probably considered the advantages and disadvantages of your decision. What are the benefits of being in a committed romantic relationship? You may have considered having companionship, intimacy, and passion, but also being comfortable with a person you know well. What are the costs of being in a committed romantic relationship? You may think that over time boredom from being with only one person may set in; moreover, it may be expensive to share activities such as attending movies and going to dinner. However, the benefits of dating your romantic partner presumably outweigh the costs, or you wouldn’t continue the relationship.

@@ -1,0 +1,5 @@
+@echo off
+setlocal
+cd /d "%~dp0"
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0web\Chay-Sach.ps1" -Action start
+if errorlevel 1 pause

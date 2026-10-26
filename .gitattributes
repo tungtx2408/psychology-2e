@@ -1,0 +1,10 @@
+# Preserve the book byte-for-byte so SHA-256 checks work after cloning on Windows.
+* text=auto eol=lf
+en/** -text
+vi/** -text
+TRANSLATION_GUIDE.md -text
+ai-handoff/SOURCE_BASELINE.json -text
+*.jpg binary
+*.png binary
+*.bat text eol=crlf
+*.ps1 text eol=crlf

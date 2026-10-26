@@ -1,0 +1,37 @@
+# Summary
+
+## [11.1 What Is Personality?](01-11-1-what-is-personality.md)
+
+Personality has been studied for over 2,000 years, beginning with Hippocrates. More recent theories of personality have been proposed, including Freud’s psychodynamic perspective, which holds that personality is formed through early childhood experiences. Other perspectives then emerged in reaction to the psychodynamic perspective, including the learning, humanistic, biological, trait, and cultural perspectives.
+
+## [11.2 Freud and the Psychodynamic Perspective](02-11-2-freud-and-the-psychodynamic-perspective.md)
+
+Sigmund Freud presented the first comprehensive theory of personality. He was also the first to recognize that much of our mental life takes place outside of our conscious awareness. Freud also proposed three components to our personality: the id, ego, and superego. The job of the ego is to balance the sexual and aggressive drives of the id with the moral ideal of the superego. Freud also said that personality develops through a series of psychosexual stages. In each stage, pleasure focuses on a specific erogenous zone. Failure to resolve a stage can lead one to become fixated in that stage, leading to unhealthy personality traits. Successful resolution of the stages leads to a healthy adult.
+
+## [11.3 Neo-Freudians: Adler, Erikson, Jung, and Horney](03-11-3-neo-freudians-adler-erikson-jung-and-horney.md)
+
+The neo-Freudians were psychologists whose work followed from Freud’s. They generally agreed with Freud that childhood experiences matter, but they decreased the emphasis on sex and focused more on the social environment and effects of culture on personality. Some of the notable neo-Freudians are Alfred Adler, Carl Jung, Erik Erikson, and Karen Horney. The neo-Freudian approaches have been criticized, because they tend to be philosophical rather than based on sound scientific research. For example, Jung’s conclusions about the existence of the collective unconscious are based on myths, legends, dreams, and art. In addition, as with Freud’s psychoanalytic theory, the neo-Freudians based much of their theories of personality on information from their patients.
+
+## [11.4 Learning Approaches](04-11-4-learning-approaches.md)
+
+Behavioral theorists view personality as significantly shaped and impacted by the reinforcements and consequences outside of the organism. People behave in a consistent manner based on prior learning. B. F. Skinner, a prominent behaviorist, said that we demonstrate consistent behavior patterns, because we have developed certain response tendencies. Mischel focused on how personal goals play a role in the self-regulation process. Albert Bandura said that one’s environment can determine behavior, but at the same time, people can influence the environment with both their thoughts and behaviors, which is known as reciprocal determinism. Bandura also emphasized how we learn from watching others. He felt that this type of learning also plays a part in the development of our personality. Bandura discussed the concept of self-efficacy, which is our level of confidence in our own abilities. Finally, Rotter proposed the concept of locus of control, which refers to our beliefs about the power we have over our lives. He said that people fall along a continuum between a purely internal and a purely external locus of control.
+
+## [11.5 Humanistic Approaches](05-11-5-humanistic-approaches.md)
+
+Humanistic psychologists Abraham Maslow and Carl Rogers focused on the growth potential of healthy individuals. They believed that people strive to become self-actualized. Both Rogers’s and Maslow’s theories greatly contributed to our understanding of the self. They emphasized free will and self-determination, with each individual desiring to become the best person they can become.
+
+## [11.6 Biological Approaches](06-11-6-biological-approaches.md)
+
+Some aspects of our personalities are largely controlled by genetics; however, environmental factors (such as family interactions) and maturation can affect the ways in which children’s personalities are expressed.
+
+## [11.7 Trait Theorists](07-11-7-trait-theorists.md)
+
+Trait theorists attempt to explain our personality by identifying our stable characteristics and ways of behaving. They have identified important dimensions of personality. The Five Factor Model is the most widely accepted theory today. The five factors are openness, conscientiousness, extroversion, agreeableness, and neuroticism. These factors occur along a continuum.
+
+## [11.8 Cultural Understandings of Personality](08-11-8-cultural-understandings-of-personality.md)
+
+The culture in which you live is one of the most important environmental factors that shapes your personality. Western ideas about personality may not be applicable to other cultures. In fact, there is evidence that the strength of personality traits varies across cultures. Individualist cultures and collectivist cultures place emphasis on different basic values. People who live in individualist cultures tend to believe that independence, competition, and personal achievement are important. People who live in collectivist cultures value social harmony, respectfulness, and group needs over individual needs. There are three approaches that can be used to study personality in a cultural context: the cultural-comparative approach, the indigenous approach, and the combined approach, which incorporates both elements of both views.
+
+## [11.9 Personality Assessment](09-11-9-personality-assessment.md)
+
+Personality tests are techniques designed to measure one’s personality. They are used to diagnose psychological problems as well as to screen candidates for college and employment. There are two types of personality tests: self-report inventories and projective tests. The MMPI is one of the most common self-report inventories. It asks a series of true/false questions that are designed to provide a clinical profile of an individual. Projective tests use ambiguous images or other ambiguous stimuli to assess an individual’s unconscious fears, desires, and challenges. The Rorschach Inkblot Test, the TAT, the RISB, and the C-TCB are all forms of projective tests.

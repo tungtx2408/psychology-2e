@@ -1,0 +1,11 @@
+.pnpm-store/
+web/node_modules/
+web/.generated/
+web/dist/
+web/test-results/
+.env
+.env.*
+!.env.example
+*.log
+Thumbs.db
+.DS_Store
